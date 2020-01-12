@@ -1,8 +1,14 @@
 # Data Driven Art 2020
 
+## 概要
+
+慶應義塾大学SFCでのDataDrivenArt2020のサンプルファイルをWindowsでも実行できるようにしたリポジトリ．
+
 ## 環境
 
 * openFrameworks 0.11.0
+
+* Windows10
 
 ## セットアップ
 
@@ -10,6 +16,6 @@
 
 ```bash
 cd path/to/of_v0.11.0_XXX_release/
-git clone https://github.com/daitomanabe/datadrivenart2020.git
+git clone https://github.com/santa-sukitoku/datadrivenart2020.git
 ```
 
