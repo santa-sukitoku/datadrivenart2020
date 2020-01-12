@@ -10,6 +10,8 @@
 
 * Windows10
 
+* Visual Studio 2017
+
 ## セットアップ
 
 `path/to/of_v0.11.0_XXX_release/` 直下にcloneする
