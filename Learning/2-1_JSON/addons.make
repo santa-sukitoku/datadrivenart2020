@@ -1,1 +1,4 @@
-../addons/ScreenConsole
+ofxJSON
+ofxOsc
+ofxPubSubOsc
+ofxScreenConsole
